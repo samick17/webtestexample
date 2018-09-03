@@ -1,0 +1,18 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "Samick.Hsu",
+    "email": "boneache@gmail.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "simple-web-automator": "^1.0.1"
+  }
+}
